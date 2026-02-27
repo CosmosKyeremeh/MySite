@@ -12,7 +12,7 @@ A responsive developer education landing page with a login UI — built from scr
 ![Desktop Preview](images/mysitePreview.png)
 
 ### Mobile
-![Mobile View](images/mobileView.png)
+![Mobile View](images/mobileView.jpeg)
 
 ---
 
