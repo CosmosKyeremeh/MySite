@@ -2,13 +2,17 @@
 
 A responsive developer education landing page with a login UI — built from scratch using HTML, CSS, and vanilla JavaScript.
 
-> **Live Demo:** [your-username.github.io/devops-pool](nnnnn) 
+> **Live Demo:** [your-username.github.io/devops-pool](https://cosmoskyeremeh.github.io/MySite/) 
 
 ---
 
 ## 📸 Preview
 
-> *(Add a screenshot here — drag an image into this section on GitHub, or use a tool like [Lightshot](https://app.prntscr.com/) to capture your page)*
+### Desktop
+![Desktop Preview](images/mysitePreview.png)
+
+### Mobile
+![Mobile View](images/mobileView.png)
 
 ---
 
@@ -115,7 +119,12 @@ cd devops-pool
 ## 👤 Author
 
 **BonGr8**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@cosmoskyeremeh](https://github.com/cosmoskyeremeh)
+
+---
+
+### Mobile
+![Menu Mobile View](images/mobileHamburg.jpeg)
 
 ---
 
